@@ -303,3 +303,18 @@ footer {
   }
 }
 
+/* Styling for "Our Physiotherapy Services" heading */
+.services-heading {
+    background-color: #003366; /* Dark Blue */
+    color: white;
+    text-align: center;
+    padding: 20px;
+    border-radius: 8px;
+    font-size: 1.8em;
+    font-weight: bold;
+    margin: 20px auto;
+    max-width: 90%; /* Keeps it neat on mobile */
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1); /* Optional: subtle shadow */
+}
+
+
